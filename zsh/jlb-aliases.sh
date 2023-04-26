@@ -9,6 +9,8 @@ alias gb='git branch'
 alias gr='git remote -v'
 # Git commit
 alias gc='git commit -m'
+# Git fetch
+alias gf='git fetch'
 
 # =================== System ===================================
 
@@ -38,11 +40,11 @@ alias open='xdg-open'
 
 ## a quick way to get out of current directory ##
 alias ..='cd ..'
-alias ...='cd ../../../'
-alias ....='cd ../../../../'
+alias ...='cd ../../'
+alias ....='cd ../../../'
 
 ## Folders
 alias desktop="cd ~/Desktop"
-alias downloads="cd ~/Downloads
+alias downloads="cd ~/Downloads"
 
 

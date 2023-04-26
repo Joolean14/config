@@ -1,1 +1,3 @@
 # config
+
+This repo is were I keep my Manjaro prefered configs, scripts, aliases...
